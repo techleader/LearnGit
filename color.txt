@@ -3,3 +3,5 @@ red
 pink 
 blue
 Black
+White
+Yellow
