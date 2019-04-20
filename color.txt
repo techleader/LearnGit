@@ -2,6 +2,7 @@ Colors Names
 red 
 pink 
 blue
+Purple
 Black
 White
 Yellow
