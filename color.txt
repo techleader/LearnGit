@@ -1,7 +1,8 @@
-Colors Names
+Colors Names with new colours
 red 
 pink 
 blue
 Black
 White
 Yellow
+Green
