@@ -1,12 +1,14 @@
-Colors Names
+Colors Names with new colours
 red 
 pink 
 blue
+Gray
 Purple
 Black
 White
 Yellow
+Green
 
 Shapes
-
 Circle
+
