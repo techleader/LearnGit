@@ -12,3 +12,4 @@ Shapes:-
 
 	Circle
 	Cube
+	triangle
